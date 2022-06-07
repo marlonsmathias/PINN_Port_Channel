@@ -1,0 +1,7 @@
+pinn/__pycache__
+*.pt
+*.png
+batch*.sh
+*.pyc
+*.pdf
+models*
